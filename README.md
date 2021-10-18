@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgedobkovski/)](https://github.com/jorgedobkovski/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedobkovski/)](https://www.linkedin.com/in/jorgedobkovski/) 
 
 ### About me
-I'm a web development enthusiast from Brazil.
+I'm a web development and technology enthusiast from Brazil.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedobkovski&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
