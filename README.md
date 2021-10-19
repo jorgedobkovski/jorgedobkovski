@@ -5,8 +5,10 @@
 <img src=https://i.pinimg.com/originals/56/63/9b/56639bac3a6ce36e93693c16d6bf0fa8.gif width="500">
 
 ### About me
-:computer: I'm a web development and technology enthusiast from Brazil . 
+:computer: I'm a web development and technology enthusiast from Brazil.
+
 :books: I’m currently learning about React JS.
+
 :outbox_tray: Goals: create a new project and/or find a new job.
 
 
