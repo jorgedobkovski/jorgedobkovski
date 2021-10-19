@@ -2,8 +2,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgedobkovski/)](https://github.com/jorgedobkovski/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedobkovski/)](https://www.linkedin.com/in/jorgedobkovski/) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://www.linkedin.com/in/jorgedobkovski/)](https://www.linkedin.com/in/jorgedobkovski/)
 
+<img src=https://i.pinimg.com/originals/56/63/9b/56639bac3a6ce36e93693c16d6bf0fa8.gif width="500">
+
 ### About me
-I'm a web development and technology enthusiast from Brazil. <img src=https://i.pinimg.com/originals/56/63/9b/56639bac3a6ce36e93693c16d6bf0fa8.gif width="1000">
+I'm a web development and technology enthusiast from Brazil. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedobkovski&show_icons=true&theme=radical)](https://github.com/jorgedobkovski/) 
 
