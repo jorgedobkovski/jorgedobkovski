@@ -7,7 +7,7 @@
 ### About me
 💻 I'm a web development and technology enthusiast from Brazil 🇧🇷. <br>
 📚 I’m currently learning about React JS. <br>
-🎯 Goals: create a new project and/or find a new job.
+🎯 <b>Goals:</b> create a new project and/or find a new job.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedobkovski&show_icons=true&theme=radical)](https://github.com/jorgedobkovski/) 
