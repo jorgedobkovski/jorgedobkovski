@@ -6,7 +6,7 @@
 
 ### About me
 💻 I'm a web development and technology enthusiast from Brazil 🇧🇷. <br>
-📚 I’m currently learning about React JS. <br>
+📚 I’m currently learning about web development. <br>
 🎯 <b>Goals:</b> create a new project and find a new job.
 
 
