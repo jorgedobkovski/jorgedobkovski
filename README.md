@@ -7,7 +7,7 @@
 ### About me
 💻 I'm a web development and technology enthusiast from Brazil 🇧🇷. <br>
 📚 I’m currently learning about web development. <br>
-🎓 Studying Computer Engineering
+🎓 Studying Computer Engineering. <br>
 🎯 <b>Goals:</b> create a new project and find a new job.
 
 
